@@ -1,0 +1,5 @@
+{
+  "error": "no such element",
+  "message": "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\".//i[contains(., \"Logout\") and not(.//i)]\"}\n  (Session info: chrome=121.0.6167.161)",
+  "stacktrace": "\tGetHandleVerifier [0x00007FF7E6BB5E42+3538674]\n\t(No symbol) [0x00007FF7E67D4C02]\n\t(No symbol) [0x00007FF7E6685AEB]\n\t(No symbol) [0x00007FF7E66CBF4E]\n\t(No symbol) [0x00007FF7E66CC0CC]\n\t(No symbol) [0x00007FF7E670E477]\n\t(No symbol) [0x00007FF7E66EF0EF]\n\t(No symbol) [0x00007FF7E670BDE3]\n\t(No symbol) [0x00007FF7E66EEE53]\n\t(No symbol) [0x00007FF7E66BF514]\n\t(No symbol) [0x00007FF7E66C0631]\n\tGetHandleVerifier [0x00007FF7E6BE6CAD+3738973]\n\tGetHandleVerifier [0x00007FF7E6C3C506+4089270]\n\tGetHandleVerifier [0x00007FF7E6C34823+4057299]\n\tGetHandleVerifier [0x00007FF7E6905C49+720121]\n\t(No symbol) [0x00007FF7E67E126F]\n\t(No symbol) [0x00007FF7E67DC304]\n\t(No symbol) [0x00007FF7E67DC432]\n\t(No symbol) [0x00007FF7E67CBD04]\n\tBaseThreadInitThunk [0x00007FFF4D65257D+29]\n\tRtlUserThreadStart [0x00007FFF4EFAAA58+40]\n"
+}

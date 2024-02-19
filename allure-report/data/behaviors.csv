@@ -1,0 +1,4 @@
+"Epic","Feature","Story","FAILED","BROKEN","PASSED","SKIPPED","UNKNOWN"
+"","Login: Succesfully log in with valid username and password","","0","0","14","0","0"
+"","Login: Succesfully log in with a valid password","","0","10","1","0","0"
+"","Login: Cannot log in with invalid username and password","","0","0","14","0","0"
